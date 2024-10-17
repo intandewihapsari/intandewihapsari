@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Intan+Dewi+Hapsari...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 - 👋 Hi, I’m @intandewihapsari
@@ -29,7 +29,7 @@
   <br>
   📫 How to reach me: <a href="mailto: intandewihapsarii@gmail.com">intandewihapsarii@gmail.com</a>
 </p>
-
+<!--
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -125,3 +125,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--!>
